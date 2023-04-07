@@ -6,7 +6,8 @@ import Categories from './components/Categories/Categories';
 import Location from './components/Location/Location';
 
 function App() {
-  const apiUrl = "https://test-api-ckcd.onrender.com"
+  //const apiUrl = "https://test-api-ckcd.onrender.com"
+  const apiUrl = "https://site--node-api--ylby28pgrnm2.code.run"
 
   return (
     <Router>
